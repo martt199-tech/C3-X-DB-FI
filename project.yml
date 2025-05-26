@@ -1,0 +1,7 @@
+id: '905beb51-0b18-40b1-9bcb-08dd9c3f3d0a'
+name: 'C3-X-DB-FI'
+description: ''
+version: 'v1.5'
+configuration:
+  id: 'biGENIUS.Implementation.Generator.Stage.Spark.Databricks.File'
+  version: '1.9.4'
