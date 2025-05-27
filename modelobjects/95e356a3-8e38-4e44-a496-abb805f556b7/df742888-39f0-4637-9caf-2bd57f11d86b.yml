@@ -1,0 +1,48 @@
+id: 'df742888-39f0-4637-9caf-2bd57f11d86b'
+name: 'CURRENCY'
+modelObjectTypeId: '95e356a3-8e38-4e44-a496-abb805f556b7'
+terms:
+  - id: '8ab468a6-f4bc-4703-b7d1-a499995b2245'
+    name: 'currencycode'
+    hiddenInSource: false
+    hiddenInTarget: false
+    isBusinessKey: false
+    isForeignKey: false
+    isIdentity: false
+    isNullable: true
+    dataType:
+      platformDataTypeId: '411ce059-36cd-4df5-9d15-97057995eb76'
+  - id: 'd4a9f215-1e35-4ba8-bfad-382c39cf20e2'
+    name: 'name'
+    hiddenInSource: false
+    hiddenInTarget: false
+    isBusinessKey: false
+    isForeignKey: false
+    isIdentity: false
+    isNullable: true
+    dataType:
+      platformDataTypeId: '411ce059-36cd-4df5-9d15-97057995eb76'
+  - id: '3bfe8cd7-b829-404d-8c03-c7956abf6691'
+    name: 'modifieddate'
+    hiddenInSource: false
+    hiddenInTarget: false
+    isBusinessKey: false
+    isForeignKey: false
+    isIdentity: false
+    isNullable: true
+    dataType:
+      platformDataTypeId: '214f4959-56df-4f38-b8c2-703c0890e8ae'
+  - id: 'e0b4d2cd-7529-4e83-a006-2e967b3c3458'
+    name: 'dt'
+    hiddenInSource: false
+    hiddenInTarget: false
+    isBusinessKey: false
+    isForeignKey: false
+    isIdentity: false
+    isNullable: false
+    dataType:
+      platformDataTypeId: '411ce059-36cd-4df5-9d15-97057995eb76'
+tags:
+  - '$discovery#id#ae6ac1a4-dce5-48c0-a2f1-9778f4a63a7d'
+  - '$initial#name#currency'
+  - '$sourcesystem#id#82d82beb-3ac3-4914-b5ea-cc9cb4cb21a6'
