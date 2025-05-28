@@ -151,12 +151,13 @@ terms:
     name: 'accountnumber'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: '411ce059-36cd-4df5-9d15-97057995eb76'
+    propertyValues: []
   - id: 'e8ca3107-5287-4556-a7eb-3cd1925318b8'
     name: 'rowguid'
     hiddenInSource: false
