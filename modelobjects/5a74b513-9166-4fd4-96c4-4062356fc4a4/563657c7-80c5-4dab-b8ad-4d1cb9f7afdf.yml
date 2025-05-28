@@ -111,12 +111,13 @@ terms:
     name: 'salesorderid'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: 'c6f208b6-6dc4-4977-bed0-a7775c9ff888'
+    propertyValues: []
   - id: '3811b7de-f137-4a44-8e75-eff904e6d9f2'
     name: 'salesorderdetailid'
     hiddenInSource: false
