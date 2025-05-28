@@ -111,12 +111,13 @@ terms:
     name: 'currencyrateid'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: 'c6f208b6-6dc4-4977-bed0-a7775c9ff888'
+    propertyValues: []
   - id: '15be3e9f-aa92-4dff-b0fd-061991be2ef4'
     name: 'currencyratedate'
     hiddenInSource: false
