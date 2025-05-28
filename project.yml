@@ -5,12 +5,7 @@ version: 'v1.5'
 configuration:
   id: 'biGENIUS.Implementation.Generator.Stage.Spark.Databricks.File'
   version: '1.9.4'
-sourceSystems:
-  - id: '82d82beb-3ac3-4914-b5ea-cc9cb4cb21a6'
-    name: 'Adventure Works'
-    description: 'This is the Source system for the Adventure Works parquet files'
-    activeDiscovery: 'ae6ac1a4-dce5-48c0-a2f1-9778f4a63a7d'
-    sourceSystemTypeId: 'c5e55725-184f-4c60-a22d-70cb5d6fe513'
+sourceSystems: []
 propertyValues:
   - propertyId: '59eca19a-3bec-4169-85fd-41331f6fac3a'
     value: 'true'
