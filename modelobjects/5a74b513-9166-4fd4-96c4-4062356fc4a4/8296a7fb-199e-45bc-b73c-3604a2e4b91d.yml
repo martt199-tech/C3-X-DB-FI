@@ -111,12 +111,13 @@ terms:
     name: 'creditcardid'
     hiddenInSource: false
     hiddenInTarget: false
-    isBusinessKey: false
+    isBusinessKey: true
     isForeignKey: false
     isIdentity: false
-    isNullable: true
+    isNullable: false
     dataType:
       platformDataTypeId: 'c6f208b6-6dc4-4977-bed0-a7775c9ff888'
+    propertyValues: []
   - id: '2201bcb5-0a9b-478a-9df2-36a8080286e5'
     name: 'cardtype'
     hiddenInSource: false
